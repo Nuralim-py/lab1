@@ -1,1 +1,1 @@
-print("kot")
+print("PP2 pipi two")
